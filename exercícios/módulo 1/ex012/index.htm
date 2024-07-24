@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>exercício 12</title>
+</head>
+
+<body>
+    <h1>Imagem Dinâmica</h1>
+    <p>Tente abrir este site em vários dispositivos diferentes ou simplesmente aumente e diminua o tamanho do seu
+        navegador!</p>
+    <picture>
+        <source media="(max-width:750px )" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-g.png" alt="imagem flexível">
+    </picture>
+    <h1>Reproduzindo Áudios</h1>
+    <p>Aprendendo a reproduzir áudios em HTML5</p>
+    <audio src="midia/Happy Mistake - RKVC.mp3" controls></audio>
+    <!--formatos de áudio: MP3 WAV OGG-->
+    <!--Outra maneira de adicionar áudios-->
+    <audio preload="metadata" controls loop>
+        <source src="midia/Áudio do WhatsApp de 2024-03-04 à(s) 13.39.42_632c8058.dat.mp3" type="audio/mpeg">
+        <source src="midia/Áudio do WhatsApp de 2024-03-04 à(s) 13.39.42_632c8058.dat.mp3" type="audio/ogg">
+        <source src="midia/Áudio do WhatsApp de 2024-03-04 à(s) 13.39.42_632c8058.dat.mp3" type="audio/wav">
+        <p>Infelizmente seu navegador não é compatível com áudios, clique <a href="midia/Áudio do WhatsApp de 2024-03-04 à(s) 13.39.42_632c8058.dat.mp3">aqui</a> para baixar o áudio MP3.</p>
+    </audio>
+</body>
+
+</html>

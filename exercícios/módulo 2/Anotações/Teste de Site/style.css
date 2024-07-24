@@ -1,0 +1,21 @@
+@charset "UTF-8";
+ body{
+    background-color: #4ce57aa1;
+    margin: 0;
+ }
+ *{
+    box-sizing: border-box;
+ }
+ body{
+    display: block;
+    margin: 8px;
+ }
+
+ h1{
+    color: #e6b400;
+    text-align: center;
+    background-color: #0011E6;
+    border: #0011E6;
+    box-sizing: border-box;
+    
+ }

@@ -1,0 +1,23 @@
+Matéria do Módulo 2
+1 Grande exercício sendo construíd durante o módulo
+
+Tópicos do Módulo 2
+-Cores
+.Psicologia das Cores
+.Círculo Cromático
+.Armonização das cores
+.Paleta de cores pra sites específicos
+-Tipografia
+.Fontes de texto
+.Família Tipográfica
+.Integração de texto e cor
+-Aprofundamento do CSS
+.Classe
+.ID
+.Pseudoclasse
+.Pseudoelementos
+-Variáveis em CSS
+-Modelo de Caixas
+-Cores em Degradê
+-Construir um Site do 0
+-Responsividade

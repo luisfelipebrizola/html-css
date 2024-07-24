@@ -1,0 +1,7 @@
+Paleta de cores (aula 4)
+
+Ferramentas:
+-Adobe Color
+(RRB: monitores, CMYK: impressoras)
+-Paletton
+-coolors

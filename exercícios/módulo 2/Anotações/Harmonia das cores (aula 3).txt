@@ -1,0 +1,39 @@
+Harmonia das cores (aula 3)
+
+Círculo Cromático
+-Utilizado para harmonizar cores
+--Cores primárias: Amarelo, Vermelho, Azul (Simétricas, formando um triângulo equilátero)
+---Cores Secundárias: Laranja, Violeta, Verde
+----Cores Terciárias: [Primeiro o nome da cor primária e depois da secundária, exemplo, amarelo-esverdeado. Amarelo(cor primária) verde(cor secundária)] amarelo-esverdeado, amarelo-alaranjado, vermelho-alaranjado, vermelho-arroxeado, azul-arroxeado, azul-esverdeado.
+
+Temperatura de cores
+-Cores Quentes (lado direito do círculo) do amarelo  até o vermelho-arroxeado
+-Cores Frias (lado esquerdo do círculo), do amarelo-esverdeado até o violeta
+
+Classificações de Harmonia
+Cores Complementares (maior contraste, cor oposta no círculo cromático) Exemplos: Violeta e amarelo, Vermelho e verde, Azul e laranja.
+
+Cores Análogas (pouco contraste, cores vizinhas) Violeta, vermelho-arroxeado e azul-arroxeado;(+ complementar para contrastar, amarelo) Laranja, amarelo-alaranjado e vermelho-alaranjado;(+ complementar para contrastar, azul)
+
+Cores Análogas Relacionadas
+-Duas cores principais, pula uma cor, e escolhe essa cor
+exemplo: amarelo e amarelo-alaranjado, pula o laranja e escolhe o vermelho-alaranjado, ou pulando para o lado contrário, pulando o amarelo-esverdeado e escolhendo o verde.
+
+Cores Intercaladas
+-Escolhe uma cor principal, pula uma cor e escolhe esta, pula novamente e escolhe esta
+Exemplo: Amarelo, pula o amarelo-alaranjado e escolhe o laranja, pula vermelho-alaranjado e escolhe o vermelho.
+
+Cores triádicas
+-Escolhe uma cor e pula três, escolhe ela e pula novamente três e escolhe esta, formando um triângulo equilátero.
+Exemplo, amarelo, pula três, vermelho, pula três, azul
+
+Cores em Quadrado
+-Escolhe uma e pula 2, escolhe esta e pula mais 2, escolhe esta e pula mais 2, formando um quadrado.
+
+Cores tetrádicas
+-escolhe uma cor e sua complementar, escolhe outra e pegue sua complementar, formando um retângulo
+
+Monocromia
+-uma única cor, mudando somente a saturação e o brilho
+Exemplo, com o laranja, consegue tons de laranja indo pro marrom, formando um degradê
+ 

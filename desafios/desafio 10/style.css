@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(112, 218, 112);
+    margin: auto;
+}
+
+header {
+    background-image: linear-gradient(to top, green, rgb(112, 218, 112));
+}
+
+header>p {
+    text-align: center;
+    color: white;
+
+}
+
+header>nav {
+    color: white;
+    padding: 1px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+main {
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    display: block;
+    padding: 10px;
+}
+
+footer {
+    background-color: green;
+    text-align: center;
+
+}
+
+footer>p {
+    color: white;
+    margin: 0px;
+    padding: 3px;
+}
