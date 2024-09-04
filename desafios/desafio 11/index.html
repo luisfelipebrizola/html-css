@@ -4,9 +4,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Desafio astronauta</title>
-    <link rel="stylesheet" href="style.css">
+    <style>
+
+        body{
+            margin: auto;
+        }
+        #espaço{
+            background-image: url(imagens/espaco.jpg);
+            background-size: 100% 100%;
+            position: relative;
+            height: 100vh;
+            padding: 0px;
+        }
+
+        #astronauta{
+            background-image: url(imagens/astronauta.png);
+            background-size: 100% 100%;
+            position: absolute;
+            height: 400px;
+            width: 500px;
+            left: 50%;
+            top: 50%;
+            transform: translate(-270px, -200px);
+
+        }
+    </style>
 </head>
 <body>
-    <img src="imagens/espaco.jpg" alt="imagem do espaco">
+    <section id="espaço">
+        <article id="astronauta">
+
+        </article>
+    </section>
 </body>
 </html>
