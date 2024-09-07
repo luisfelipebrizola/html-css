@@ -25,13 +25,15 @@
             text-align: center;
         }
 
-        th{
+        thead{
             background-color: gray;
             color: white;
             font-weight: bold;
         }
         .media{
             text-align: left;
+            background-color: gray;
+            color: white;
         }
         .nota{
             background-color: gray;
@@ -45,19 +47,19 @@
     <table>
         <thead>
             <tr>
-                <th rowspan="2"> Área</th>
-                <th rowspan="2"> Disciplinas</th>
-                <th colspan="2">Notas</th>
-                <th rowspan="2">Média</th>
+                <th rowspan="2" scope="col"> Área</th>
+                <th rowspan="2" scope="col"> Disciplinas</th>
+                <th colspan="2" scope="colgroup">Notas</th>
+                <th rowspan="2" scope="col">Média</th>
             </tr>
             <tr>
-                <th>Nota 1</th>
-                <th>Nota 2</th>
+                <th scope="col">Nota 1</th>
+                <th scope="col">Nota 2</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td rowspan="3" style="font-weight: bold;">Exatas</td>
+                <th rowspan="3" style="font-weight: bold;" scope="rowgroup">Exatas</th>
                 <td>Matemática</td>
                 <td>8</td>
                 <td>10</td>
@@ -80,8 +82,8 @@
                 <td class="nota">8</td>
             </tr>
             <tr>
-                <td rowspan="3" style="font-weight: bold;">Humanas</td>
-                <td>História</td>
+                <th rowspan="3" style="font-weight: bold;">Humanas</td>
+                <td>História</th>
                 <td>7</td>
                 <td>9</td>
                 <td>8</td>
